@@ -1,0 +1,8 @@
+{
+    "weather_key" : "2dcd0f70506db3ebf6c40a91b9ee5fb7",
+    "news_key" : "af94a71aa4164813816f6eb9a792f11b",
+    "location" : "exeter",
+    "notification_update_interval" : 180,
+    "clear_removed_notifications_interval" : 300,
+    "check_alarms_interval" : 60
+}
